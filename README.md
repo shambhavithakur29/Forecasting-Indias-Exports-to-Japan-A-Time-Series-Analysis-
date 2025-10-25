@@ -1,4 +1,4 @@
-# Time-Series-Analysis-of-India-s-Exports-to-Japan-using-Python-
+# Forecasting India's Exports to Japan: A Time Series Analysis
 This project analyses the impact of macroeconomic factors/shocks on India's exports to Japan.
 
 ## Data and the model
